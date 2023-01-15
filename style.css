@@ -1,7 +1,7 @@
 body{
     font-family: serif;
     height: 200vh;
-    background-color: rgb(63,94,251);
+    background-color: rgb(103, 104, 111);
     background: linear-gradient(90deg,rgb(137, 149, 212) 0%, rgb(239, 186, 129) 100%);
     text-align: center;
 }
@@ -31,11 +31,11 @@ button{
     margin: 1px;
     font-size: 2rem;
     font-weight: 600;
-    background-color: rgb(170, 162, 153);
+    background-color: rgb(239, 233, 227);
     width: 100px;
     color: #333a4d;
 }
 button:active{
-    background:#333a4d;
-    color: #eee;
+    background:#d0d4df;
+    color: rgb(233, 211, 211);
 }
